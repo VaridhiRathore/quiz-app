@@ -1,2 +1,2 @@
 # quiz-app
-This is a basic quiz application based on C programming language.
+This is a basic quiz application game based on C programming language.
